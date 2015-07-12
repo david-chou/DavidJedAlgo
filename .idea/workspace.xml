@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32187ff5-15b0-41af-9d98-01519428f0dd" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1.binary_search.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/binary_search/binary_search_david.py" afterPath="$PROJECT_DIR$/binary_search/binary_search_david.py" />
     </list>
     <ignored path="DavidJedAlgo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,8 +26,8 @@
       <file leaf-file-name="binary_search_david.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/binary_search/binary_search_david.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.3138686">
-              <caret line="36" column="65" selection-start-line="36" selection-start-column="65" selection-end-line="36" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.32846716">
+              <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -330,8 +330,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/binary_search/binary_search_david.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3138686">
-          <caret line="36" column="65" selection-start-line="36" selection-start-column="65" selection-end-line="36" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.32846716">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
           <folding />
         </state>
       </provider>

@@ -7,6 +7,7 @@ class Searcher:
         upper = len(array) - 1 if len(array) % 2 == 1 else len(array)
         mid = (lower+upper) / 2
 
+        # Keep looping as long as lower is less than upper
         while lower < upper:
 
             if array[mid] == to_find:
