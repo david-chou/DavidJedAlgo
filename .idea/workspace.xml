@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="32187ff5-15b0-41af-9d98-01519428f0dd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/binary_search/binary_search_david.py" afterPath="$PROJECT_DIR$/binary_search/binary_search_david.py" />
     </list>
+=======
+    <list default="true" id="32187ff5-15b0-41af-9d98-01519428f0dd" name="Default" comment="" />
+>>>>>>> c64a84c16a530c39f99ee745294d03fcea2d659c
     <ignored path="DavidJedAlgo.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
