@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32187ff5-15b0-41af-9d98-01519428f0dd" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1.binary_search.md" afterPath="" />
-    </list>
+    <list default="true" id="32187ff5-15b0-41af-9d98-01519428f0dd" name="Default" comment="" />
     <ignored path="DavidJedAlgo.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
